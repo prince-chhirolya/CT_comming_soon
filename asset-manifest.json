@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/CT_comming_soon/static/css/main.e5a753c3.css",
+    "main.js": "/CT_comming_soon/static/js/main.cd5ce283.js",
+    "static/js/453.f2e7cacb.chunk.js": "/CT_comming_soon/static/js/453.f2e7cacb.chunk.js",
+    "static/media/Karnika_AIOS_Info.pdf": "/CT_comming_soon/static/media/Karnika_AIOS_Info.80ee0b7c0ec941b67116.pdf",
+    "static/media/Untitled design (1).png": "/CT_comming_soon/static/media/Untitled design (1).36a1ed972ab4613710d8.png",
+    "static/media/ai1.jpeg": "/CT_comming_soon/static/media/ai1.8ac7190ed800886782fe.jpeg",
+    "static/media/ct logo.png": "/CT_comming_soon/static/media/ct logo.56d7552e89ea454f4394.png",
+    "index.html": "/CT_comming_soon/index.html",
+    "main.e5a753c3.css.map": "/CT_comming_soon/static/css/main.e5a753c3.css.map",
+    "main.cd5ce283.js.map": "/CT_comming_soon/static/js/main.cd5ce283.js.map",
+    "453.f2e7cacb.chunk.js.map": "/CT_comming_soon/static/js/453.f2e7cacb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a753c3.css",
+    "static/js/main.cd5ce283.js"
+  ]
+}
