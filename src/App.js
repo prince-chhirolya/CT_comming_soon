@@ -1,6 +1,6 @@
 import './App.css';
 import logo from './img/ct logo.png'
-import pdfFile from './Karnika_AIOS_Info-1 (1).pdf';
+import pdfFile from './Karnika_AIOS_Info.pdf';
 import React, { useState } from 'react';
 function App() {
   const [showDropdown, setShowDropdown] = useState(false);
